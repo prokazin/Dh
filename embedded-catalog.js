@@ -27,3 +27,4 @@ window.EMBEDDED_CATALOG = [
     "inStock": true,
     "popular": true
   },
+  ];
