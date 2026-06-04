@@ -7,10 +7,10 @@ const CATEGORIES = [
 "id": 1,
 "sku": "BOSSTER NAIK",
 "name": "BOOSTER NAIK 22|29",
-"description": "",
+"description": "велосипед",
 "price": 79.000,
 "photo": "https://i.ytimg.com/vi/yXCSiXVkQxk/hqdefault.jpg ",
-"category": "Велосипед",
+"category": "Велосипеды",
 "inStock": true,
 "popular": true
 },
