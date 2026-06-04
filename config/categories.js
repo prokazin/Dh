@@ -4,13 +4,6 @@
 
 const CATEGORIES = [
   {
-    name: 'Велосипеды',
-    icon: '🚲',
-    description: 'Велосипеды',
-    keywords: ['Велосипеды'],
-    enabled: true
-  },
-  {
     name: 'Колеса',
     icon: '🛞',
     description: '',
@@ -18,10 +11,17 @@ const CATEGORIES = [
     enabled: true
   },
   {
+    name: 'Велосипеды',
+    icon: '🚲',
+    description: '',
+    keywords: [''],
+    enabled: true
+  },
+  {
     name: 'Трансмиссия',
     icon: '🏅',
-    description: 'Трубы, краны, смесители',
-    keywords: ['труба', 'кран', 'смеситель', 'унитаз', 'ванна', 'душ'],
+    description: '',
+    keywords: [''],
     enabled: true // Отключена (не будет показываться)
   },
 ];
