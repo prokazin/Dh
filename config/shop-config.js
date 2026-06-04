@@ -4,12 +4,12 @@
 
 const SHOP_CONFIG = {
     // === ОСНОВНАЯ ИНФОРМАЦИЯ ===
-    shopTitle: "СтройМаркет Pro",
-    shopDescription: "Качественные строительные материалы",
+    shopTitle: "VELO CITY",
+    shopDescription: "Качественные велосипеды и детали",
     
     // === ЛОГОТИП ===
     // Укажите путь к вашему логотипу или URL изображения
-    logoPath: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=100&h=100&fit=crop&crop=center",
+    logoPath: "https://a.storyblok.com/f/190381/1440x1025/8769cc1a46/velocity_og.png",
     
     // === ЦВЕТА МАГАЗИНА ===
     colors: {
@@ -27,31 +27,14 @@ const SHOP_CONFIG = {
     
     // === КОНТАКТНАЯ ИНФОРМАЦИЯ ===
     contact: {
-        phone: "+7 (900) 123-45-67",
-        email: "info@stroymarket.ru",
-        address: "г. Москва, ул. Строительная, 123"
+        phone: "+7 924 841 23 24",
+        email: "rychkov_roman83@mail.ru",
+        address: "г. Благовещенск Коаснофлотская 63"
     },
-    
-    // === НАСТРОЙКИ ДОСТАВКИ ===
-    delivery: {
-        freeDeliveryFrom: 5000,  // Бесплатная доставка от суммы (в копейках)
-        deliveryCost: 500,       // Стоимость доставки (в копейках)
-        deliveryText: "Доставка по городу"
-    },
-    
-    // === СПОСОБЫ ОПЛАТЫ ===
-    paymentMethods: [
-        { value: "cash", label: "💵 Наличными", enabled: true },
-        { value: "card", label: "💳 Картой", enabled: true },
-        { value: "transfer", label: "🏦 Переводом", enabled: false }
-    ],
     
     // === ЗАГОЛОВКИ СЕКЦИЙ ===
     sectionTitles: {
         categories: "🏗️ Категории товаров",
-        products: "🛠️ Наши товары",
-        cart: "🛒 Ваша корзина",
-        order: "📋 Оформление заказа"
     },
     
     // === ТЕКСТЫ УВЕДОМЛЕНИЙ ===
