@@ -5,12 +5,53 @@
 const CATEGORIES = [
 {
 "id": 1,
-"sku": "ZAM-00000423",
-"name": "Замок накладной ГРАНИТ",
-"description": "Накладной сувальдный замок, сталь 4 шт., диаметр 18 мм.",
-"price": 2527.72,
-"photo": "https://example.com/images/zamok_granit.jpg ",
-"category": "Замки и фурнитура",
+"sku": "BOSSTER NAIK",
+"name": "BOOSTER NAIK 22|29",
+"description": "Вес
+13.500
+Модельный год
+2025
+Тип велосипеда
+Горный
+Размер рамы
+23"
+Рама
+Light Aluminium 6061 frame Booster
+Материал рамы
+Алюминий
+Рост
+190—195 см
+Вилка
+Tech 34, 29", 15X110mm BOOST, ход 120mm, конусный шток, регулировка отскока.
+Диаметр колёс
+29
+Покрышки
+CST Patrol 29*2.25"
+Передачи
+11 (1*11)
+Шифтеры (манетки)
+Shimano Cues SL-U6000-R-11ск
+Задний переключатель
+Shimano Cues RD-U6000 11ск
+Система
+Shimano Cues FC-U6000 32T 170мм
+Кассета
+Shimano Cues CS-LG400 11-50T 11ск
+Цепь
+Shimano Cues LG500 11ск
+Тип тормозов
+Дисковые гидравлические
+Тормоза
+Shimano MT-200 с ротором 160
+Руль
+720 мм
+Вынос
+80 мм
+Подседельный штырь
+31.6",
+"price": 79.000,
+"photo": "https://i.ytimg.com/vi/yXCSiXVkQxk/hqdefault.jpg ",
+"category": "Велосипед",
 "inStock": true,
 "popular": true
 },
