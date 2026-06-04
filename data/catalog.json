@@ -16,11 +16,11 @@ const CATEGORIES = [
 },
 {
 "id": 2,
-"sku": "ZAM-00000424",
+"sku": "SAM-4216-002",
 "name": "BOOSTER OXYGEN",
-"description": "Велостпеды.",
-"price": 2527.72,
-"photo": "https://i.ytimg.com/vi/hhN3eAC43e8/hqdefault.jpg ",
+"description": "Для него и для него.",
+"price": 79.000,
+"photo": "https://static.baza.farpost.ru/v/1758164910028_brief2x",
 "category": "Велосипеды",
 "inStock": true,
 "popular": true
