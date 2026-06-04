@@ -8,11 +8,11 @@ window.EMBEDDED_CATALOG = [
   {
     "id": 1,
     "sku": "SHR-3545-001",
-    "name": "Шурупы универсальные 3,5x45",
-    "description": "Шурупы высокого качества для крепления различных материалов. Подходят для дерева, гипсокартона.",
-    "price": 34.30,
-    "photo": "https://images.unsplash.com/photo-1609205292622-0d43b9e24f11?w=300&h=300&fit=crop",
-    "category": "Крепеж",
+    "name": "BOOSTER NAIK",
+    "description": "Идельный во всем.",
+    "price": 79.000,
+    "photo": "https://i.ytimg.com/vi/yXCSiXVkQxk/hqdefault.jpg",
+    "category": "Велосипеды",
     "inStock": true,
     "popular": true
   },
