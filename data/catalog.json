@@ -12,7 +12,7 @@ const CATEGORIES = [
 "photo": "https://i.ytimg.com/vi/yXCSiXVkQxk/hqdefault.jpg ",
 "category": "Велосипеды",
 "inStock": true,
-"popular": true
+"popular": false
 },
 {
 "id": 2,
@@ -23,7 +23,7 @@ const CATEGORIES = [
 "photo": "https://static.baza.farpost.ru/v/1758164910028_brief2x",
 "category": "Велосипеды",
 "inStock": true,
-"popular": true
+"popular": false
 }
 ];
 
