@@ -19,22 +19,22 @@ window.EMBEDDED_CATALOG = [
   {
     "id": 2,
     "sku": "SAM-4216-002",
-    "name": "Саморезы по металлу 4,2x16",
-    "description": "Саморезы для крепления листового металла, профилей. Острый наконечник, надежная фиксация.",
-    "price": 32.99,
-    "photo": "https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=300&h=300&fit=crop",
-    "category": "Крепеж",
+    "name": "BOOSTER OXYGEN",
+    "description": "Для него и для него.",
+    "price": 79.000,
+    "photo": "https://static.baza.farpost.ru/v/1758164910028_brief2x",
+    "category": "Велосипеды",
     "inStock": true,
-    "popular": false
+    "popular": true
   },
   {
     "id": 3,
     "sku": "KRA-10L-003",
     "name": "Краска водоэмульсионная белая 10л",
     "description": "Высококачественная водоэмульсионная краска для внутренних работ. Хорошая укрывистость.",
-    "price": 478.60,
-    "photo": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=300&h=300&fit=crop",
-    "category": "Лакокрасочные",
+    "price": 79000,
+    "photo": "https://static.baza.farpost.ru/v/1758164910028_brief2x",
+    "category": "Велосипеды",
     "inStock": true,
     "popular": true
   },
