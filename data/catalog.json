@@ -17,11 +17,11 @@ const CATEGORIES = [
 {
 "id": 2,
 "sku": "ZAM-00000424",
-"name": "Замок накладной ГРАНИТ никель",
-"description": "Накладной сувальдный замок, никелированный, с защитной шторкой.",
+"name": "BOOSTER OXYGEN",
+"description": "Велостпеды.",
 "price": 2527.72,
-"photo": "https://example.com/images/zamok_granit_nikel.jpg ",
-"category": "Замки и фурнитура",
+"photo": "https://i.ytimg.com/vi/hhN3eAC43e8/hqdefault.jpg ",
+"category": "Велосипеды",
 "inStock": true,
 "popular": true
 },
