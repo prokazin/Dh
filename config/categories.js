@@ -6,8 +6,8 @@ const CATEGORIES = [
   {
     name: 'Велосипеды',
     icon: '🚲',
-    description: '',
-    keywords: [''],
+    description: 'Велосипеды',
+    keywords: ['Велосипеды'],
     enabled: true
   },
   {
